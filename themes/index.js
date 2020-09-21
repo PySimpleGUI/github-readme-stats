@@ -5,6 +5,12 @@ const themes = {
     text_color: "333",
     bg_color: "fffefe",
   },
+  PySimpleGUI: {
+    title_color: "ffdd55",
+    icon_color: "ffdd55", // icon color is different
+    text_color: "ffdd55",
+    bg_color: "3e7bac",
+  },
   default_repocard: {
     title_color: "2f80ed",
     icon_color: "586069", // icon color is different
