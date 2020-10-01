@@ -2,7 +2,7 @@
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
-- Reporting a issue
+- Reporting an issue
 - Discussing the current state of the code
 - Submitting a fix
 - Proposing new features
@@ -70,7 +70,7 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 **Q:** How to count private stats?
 
-> **Ans:** We can only count private commits & we cannot access any other private info of any users, so it's not possible. only way is to deploy on your own instance & use your own PAT (Personal Access Token)
+> **Ans:** We can only count private commits & we cannot access any other private info of any users, so it's not possible. The only way is to deploy on your own instance & use your own PAT (Personal Access Token)
 
 ### Bug Reports
 
@@ -93,7 +93,7 @@ People _love_ thorough bug reports. I'm not even kidding.
 
 - A quick idea summary
 - What & why you wanted to add the specific feature
-- Additional Context like images, links to resources to implement the feature etc etc.
+- Additional Context like images, links to resources to implement the feature etc.
 
 ## License
 
